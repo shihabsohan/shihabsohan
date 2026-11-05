@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Md. Shihab Uddin 👋
 
-<!--
-**shihabsohan/shihabsohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Diploma in Computer Science & Technology (CST)
+### Aspiring Web Developer | From Chittagong, Bangladesh
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Diploma in CST - Computer Science & Technology
+- 💻 Currently learning Web Development
+- 🌱 Learning HTML, CSS, JavaScript & Python
+- 🎯 Goal: Become a Full-Stack Developer & Freelancer
+- 📫 Looking for internship / junior opportunities
+
+---
+
+### 🛠️ Skills
+HTML | CSS | JavaScript | Python | Git & GitHub | MS Excel | Data Entry
+
+---
+
+### 📌 My Projects
+- Portfolio Website
+- To-Do List App
+- Calculator App
+- E-commerce Landing Page
+
+---
+
+### 📫 Connect With Me
+- GitHub: shihabsohan
+- Location: Chittagong, Bangladesh
